@@ -46,7 +46,7 @@ I used the color scheme of the Dracula theme and just customized it to my liking
 **Copy and replace** the contents of the `profile` directory into the Windows
 Terminal application data folder.
 >
->C:\Users\yourUser\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
+>C:\Users\yourUser\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
 >
 
 You can use any other image, including gifs, turn the acrylic effect on or off, adjust the opacity in a simple way, all in this code.
