@@ -83,7 +83,7 @@ Below is an example of how to select the background, configure the alignment and
 }
 ```
 For more information on configurations visit
-[Editing Windows Terminal Json Settings - Microsoft Repository] (https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md)
+[Editing Windows Terminal Json Settings - Microsoft Repository](https://github.com/microsoft/terminal/blob/master/doc/user-docs/UsingJsonSettings.md)
 
 ### Extras
 
