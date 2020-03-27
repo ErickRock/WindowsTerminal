@@ -18,7 +18,7 @@
         {
             // Put settings here that you want to apply to all profiles
             "colorScheme" : "Dracula",
-            "backgroundImage" :  "ms-appdata:///local/starwars.gif",
+            "backgroundImage" :  "ms-appdata:///local/unicorn.gif",
             "backgroundImageAlignment" : "bottomRight",
             "backgroundImageOpacity" : 0.50000001192092896,
             "backgroundImageStretchMode" : "uniformToFill",
