@@ -6,7 +6,6 @@
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-    //New Global settings
     "requestedTheme" : "system",
     "showTabsInTitlebar" : true,
     "showTerminalTitleInTitlebar" : true,
@@ -27,7 +26,7 @@
             "padding" : "3, 3, 0, 0",
             "startingDirectory" : "%USERPROFILE%",
             "useAcrylic" : false,
-            "cursorColor" : "#FFFFFF"           
+            "cursorColor" : "#FFFFFF"
             
         },
         "list":
@@ -93,7 +92,8 @@
     ],
     // Add any keybinding overrides to this array.
     // To unbind a default keybinding, set the command to "unbound"
-    "keybindings": [
+    "keybindings": []
+    
 
-    ]
+  
 }
