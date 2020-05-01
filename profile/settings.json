@@ -27,8 +27,7 @@
             "padding" : "3, 3, 0, 0",
             "startingDirectory" : "%USERPROFILE%",
             "useAcrylic" : false,
-            "cursorColor" : "#FFFFFF",
-            
+            "cursorColor" : "#FFFFFF"           
             
         },
         "list":
