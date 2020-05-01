@@ -9,7 +9,7 @@ function Editar-Json {
 
     # Configuracoes gerais
     $pastaAtual = Split-Path $script:MyInvocation.MyCommand.Path
-    $arquivoJson = "$pastaAtual\Profile\profiles.json"
+    $arquivoJson = "$pastaAtual\Profile\settings.json"
     # Verifica se ja tem um configurado
     $existe = Test-Path $arquivoJson
     if ($existe) {
@@ -17,11 +17,11 @@ function Editar-Json {
     }
     # Recebe o texto do JSON padrao
     
-    $json = Get-Content "$pastaAtual\Profile\profilesPadrao.json"
+    $json = Get-Content "$pastaAtual\Profile\settingsPadrao.json"
     # Faz a troca
     $json = $json -replace "#tema#", "$tema"
     # Salva o conteudo
-    Add-Content -Path "$pastaAtual\Profile\profiles.json" -Value $json
+    Add-Content -Path "$pastaAtual\Profile\settings.json" -Value $json
 }
 
 # Variaveis de ambiente
